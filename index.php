@@ -60,22 +60,4 @@ echo "Karenin Alanı: " . $kare->alanHesapla() . "<br>";
 echo "Karenin Çevresi: " . $kare->cevreHesapla() . "<br>";
 
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 ?>
